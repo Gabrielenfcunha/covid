@@ -1,5 +1,5 @@
 d_covid = {}
-
+### gggggg
 class Estado:
   def __init__(self , nome_estado, sigla_estado):
     self.nome_estado = nome_estado
