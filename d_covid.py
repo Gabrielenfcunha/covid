@@ -5,7 +5,8 @@ class Estado:
     self.nome_estado = nome_estado
     self.sigla_estado = sigla_estado
     self.cidade = []
-    
+
+#jhygh
 ################################################### 
 def add_nome_estado_est():
   nome_estado = input("Nome do Estado: ").upper()
